@@ -1,0 +1,201 @@
+[
+  {
+    "id": 1,
+    "tenderId": 1,
+    "companyName": "ABC Corp",
+    "bidAmount": 5000,
+    "bidTime": "2025-03-06T09:50:00Z",
+    "isLast5Minutes": false
+  },
+  {
+    "id": 2,
+    "tenderId": 1,
+    "companyName": "XYZ Ltd",
+    "bidAmount": 4500,
+    "bidTime": "2025-03-06T09:58:30Z",
+    "isLast5Minutes": true
+  },
+  {
+    "id": 3,
+    "tenderId": 1,
+    "companyName": "Global Builders",
+    "bidAmount": 4800,
+    "bidTime": "2025-03-06T09:56:00Z",
+    "isLast5Minutes": true
+  },
+  {
+    "id": 4,
+    "tenderId": 2,
+    "companyName": "Tech Solutions",
+    "bidAmount": 7500,
+    "bidTime": "2025-03-06T10:40:00Z",
+    "isLast5Minutes": false
+  },
+  {
+    "id": 5,
+    "tenderId": 2,
+    "companyName": "Innovate Ltd",
+    "bidAmount": 7200,
+    "bidTime": "2025-03-06T10:55:20Z",
+    "isLast5Minutes": true
+  },
+  {
+    "id": 6,
+    "tenderId": 2,
+    "companyName": "NextGen Tech",
+    "bidAmount": 7300,
+    "bidTime": "2025-03-06T10:54:30Z",
+    "isLast5Minutes": true
+  },
+  {
+    "id": 7,
+    "tenderId": 3,
+    "companyName": "BridgePro",
+    "bidAmount": 9100,
+    "bidTime": "2025-03-06T11:00:00Z",
+    "isLast5Minutes": false
+  },
+  {
+    "id": 8,
+    "tenderId": 3,
+    "companyName": "SteelWorks Ltd",
+    "bidAmount": 8800,
+    "bidTime": "2025-03-06T11:01:30Z",
+    "isLast5Minutes": false
+  },
+  {
+    "id": 9,
+    "tenderId": 4,
+    "companyName": "SmartBuild",
+    "bidAmount": 12000,
+    "bidTime": "2025-03-06T11:40:00Z",
+    "isLast5Minutes": false
+  },
+  {
+    "id": 10,
+    "tenderId": 4,
+    "companyName": "Elite Contractors",
+    "bidAmount": 11500,
+    "bidTime": "2025-03-06T11:55:00Z",
+    "isLast5Minutes": true
+  },
+  {
+    "id": 11,
+    "tenderId": 5,
+    "companyName": "MediTech",
+    "bidAmount": 5400,
+    "bidTime": "2025-03-06T12:45:00Z",
+    "isLast5Minutes": false
+  },
+  {
+    "id": 12,
+    "tenderId": 5,
+    "companyName": "HealthCorp",
+    "bidAmount": 5100,
+    "bidTime": "2025-03-06T12:57:50Z",
+    "isLast5Minutes": true
+  },
+  {
+    "id": 13,
+    "tenderId": 6,
+    "companyName": "Highway Fixers",
+    "bidAmount": 6300,
+    "bidTime": "2025-03-06T13:30:00Z",
+    "isLast5Minutes": false
+  },
+  {
+    "id": 14,
+    "tenderId": 6,
+    "companyName": "Road Masters",
+    "bidAmount": 6000,
+    "bidTime": "2025-03-06T13:54:40Z",
+    "isLast5Minutes": true
+  },
+  {
+    "id": 15,
+    "tenderId": 7,
+    "companyName": "HydroPure",
+    "bidAmount": 7000,
+    "bidTime": "2025-03-06T14:10:00Z",
+    "isLast5Minutes": false
+  },
+  {
+    "id": 16,
+    "tenderId": 7,
+    "companyName": "WaterWorks Ltd",
+    "bidAmount": 6900,
+    "bidTime": "2025-03-06T14:57:00Z",
+    "isLast5Minutes": true
+  },
+  {
+    "id": 17,
+    "tenderId": 8,
+    "companyName": "PowerGrid Solutions",
+    "bidAmount": 8900,
+    "bidTime": "2025-03-06T15:20:00Z",
+    "isLast5Minutes": false
+  },
+  {
+    "id": 18,
+    "tenderId": 8,
+    "companyName": "EnergyBoost",
+    "bidAmount": 8700,
+    "bidTime": "2025-03-06T15:56:10Z",
+    "isLast5Minutes": true
+  },
+  {
+    "id": 19,
+    "tenderId": 9,
+    "companyName": "GreenScape",
+    "bidAmount": 4500,
+    "bidTime": "2025-03-06T16:05:00Z",
+    "isLast5Minutes": false
+  },
+  {
+    "id": 20,
+    "tenderId": 9,
+    "companyName": "EcoBuild",
+    "bidAmount": 4300,
+    "bidTime": "2025-03-06T16:58:40Z",
+    "isLast5Minutes": true
+  },
+  {
+    "id": 21,
+    "tenderId": 10,
+    "companyName": "EduBuild",
+    "bidAmount": 7100,
+    "bidTime": "2025-03-06T17:20:00Z",
+    "isLast5Minutes": false
+  },
+  {
+    "id": 22,
+    "tenderId": 10,
+    "companyName": "Library Experts",
+    "bidAmount": 6900,
+    "bidTime": "2025-03-06T17:56:30Z",
+    "isLast5Minutes": true
+  },
+  {
+    "id": 23,
+    "tenderId": 11,
+    "companyName": "NYX Corp",
+    "bidAmount": 5000,
+    "bidTime": "2025-03-06T18:10:00Z",
+    "isLast5Minutes": false
+  },
+  {
+    "id": 24,
+    "tenderId": 11,
+    "companyName": "BuildNow Ltd",
+    "bidAmount": 4800,
+    "bidTime": "2025-03-06T18:57:50Z",
+    "isLast5Minutes": true
+  },
+  {
+    "id": 25,
+    "tenderId": 6,
+    "companyName": "CodSoft",
+    "bidAmount": "2999",
+    "bidTime": "2025-03-07T12:57:47.668Z"
+  }
+]

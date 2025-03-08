@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Road Construction", "bids": 3, "status": "Open", "description": "Road construction project", "startTime": "6:00 AM", "endTime": "6:00 PM", "bufferTime": "2" },
+  { "id": 2, "name": "IT Software", "bids": 5, "status": "Closed", "description": "IT software development", "startTime": "9:00 AM", "endTime": "5:00 PM", "bufferTime": "1" },
+  { "id": 3, "name": "Bridge Construction", "bids": 2, "status": "Open", "description": "Bridge construction project", "startTime": "7:00 AM", "endTime": "7:00 PM", "bufferTime": "3" },
+  { "id": 4, "name": "School Building", "bids": 4, "status": "Closed", "description": "School building construction", "startTime": "8:00 AM", "endTime": "4:00 PM", "bufferTime": "1" },
+  { "id": 5, "name": "Hospital Equipment", "bids": 1, "status": "Open", "description": "Hospital equipment supply", "startTime": "10:00 AM", "endTime": "6:00 PM", "bufferTime": "2" },
+  { "id": 6, "name": "Highway Maintenance", "bids": 3, "status": "Closed", "description": "Highway maintenance project", "startTime": "5:00 AM", "endTime": "3:00 PM", "bufferTime": "4" },
+  { "id": 7, "name": "Water Supply", "bids": 2, "status": "Open", "description": "Water supply project", "startTime": "6:00 AM", "endTime": "2:00 PM", "bufferTime": "1" },
+  { "id": 8, "name": "Electricity Grid", "bids": 5, "status": "Closed", "description": "Electricity grid installation", "startTime": "7:00 AM", "endTime": "5:00 PM", "bufferTime": "2" },
+  { "id": 9, "name": "Public Park", "bids": 1, "status": "Open", "description": "Public park development", "startTime": "8:00 AM", "endTime": "4:00 PM", "bufferTime": "1" },
+  { "id": 10, "name": "Library Renovation", "bids": 4, "status": "Closed", "description": "Library renovation project", "startTime": "9:00 AM", "endTime": "5:00 PM", "bufferTime": "2" }
+]
